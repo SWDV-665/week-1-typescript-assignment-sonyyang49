@@ -1,3 +1,4 @@
+//By:  Sony Yang
 var Grocery = /** @class */ (function () {
     function Grocery(inputName, inputQuantity) {
         this.inputName = inputName;
